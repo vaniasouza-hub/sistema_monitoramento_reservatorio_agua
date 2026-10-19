@@ -25,4 +25,4 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 1. **Clonar o repositório via GitHub:**
 ```bash
-git clone [https://github.com/vaniasouza-hub/pesquisa-_-satisfacao_TudoWeb.git](https://github.com/vaniasouza-hub/pesquisa-_-satisfacao_TudoWeb.git)
+git clone [https://github.com/vaniasouza-hub/pesquisa-_-satisfacao_TudoWeb.git](https://github.com/vaniasouza-hub/sistema_monitoramento_reservatorio_agua.git)
